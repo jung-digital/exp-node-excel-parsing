@@ -1,0 +1,21 @@
+{
+  "name": "exp-excel-parsing",
+  "version": "0.0.0",
+  "description": "Demo project utilizing the excel-parser package",
+  "main": "index.js",
+  "dependencies": {
+    "excel-parser": "~0.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jung-digital/exp-node-excel-parsing.git"
+  },
+  "keywords": [
+    "excel",
+    "parsing",
+    "demo"
+  ],
+  "author": "Thomas Yarnall",
+  "license": "MIT"
+}
